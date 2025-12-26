@@ -1,4 +1,4 @@
-# worayoot-nd2-learning-journey-2025
+# nd2-learning-journey-2025
 ---
 
 ## 🛠️ 1. DevOps Concepts for Automation Systems
